@@ -4,22 +4,7 @@
 底层调用chatgpt-4.0接口，本地运行时需要vpn,也可以直接将项目部署在海外服务器上，通过IP直接访问。
 
 ## 项目结构
-.
-├── requirements.txt
-├── static
-│   ├── css
-│   │   ├── normalize.min.css
-│   │   └── style.css
-│   ├── img
-│   │   ├── 1.jpg
-│   │   └── ChatGPT_logo.svg
-│   └── js
-│       └── script.js
-├── template
-│   └── index.html
-└── venv
-    ├── __pycache__
-    │   └── flask.cpython-38.pyc
-    └── app.py
+![image](https://user-images.githubusercontent.com/32828280/227143887-1ce235c8-e669-416c-bfba-3ef8de29cfca.png)
+
 ## 注意    
 运行时需要配置自己的openai_key,可以配置在代码里，但最好配置在环境变量里。
