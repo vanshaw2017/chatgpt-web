@@ -1,7 +1,7 @@
 # chatgpt-web
 ## 项目介绍
 本项目为简易聊天机器人项目，具有多轮聊天功能。</br>
-底层调用chatgpt-4.0接口，本地运行时需要vpn,也可以直接将项目部署在海外服务器上，通过IP直接访问。
+底层调用chatgpt-3.5-turbo接口，本地运行时需要vpn,也可以直接将项目部署在海外服务器上，通过IP直接访问。
 
 ## 项目结构
 ![image](https://user-images.githubusercontent.com/32828280/227143887-1ce235c8-e669-416c-bfba-3ef8de29cfca.png)
